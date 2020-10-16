@@ -113,7 +113,7 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
       body: Container(
         color: Colors.grey.shade500,
-        margin: EdgeInsets.all(20.0),
+        margin: EdgeInsets.all(30.0),
         child: Center(
 
           
@@ -135,7 +135,7 @@ class _MyHomePageState extends State<MyHomePage> {
               ),
               Container(
                   width: 95,
-                  height: 50,
+                  height: 60,
                 margin: EdgeInsets.fromLTRB(20, 50, 20, 20),
                 child: RaisedButton(
 
@@ -168,7 +168,7 @@ class _MyHomePageState extends State<MyHomePage> {
               ),
               Container(
                   width: 95,
-                  height: 50,
+                  height: 60,
                   margin: EdgeInsets.fromLTRB(20, 50, 20, 20),
                   child: RaisedButton(
 
