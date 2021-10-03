@@ -108,7 +108,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text("Video Player"),
+        title: Text("Video Player App"),
 
       ),
       body: Container(
