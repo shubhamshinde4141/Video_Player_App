@@ -113,7 +113,7 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
       body: Container(
         color: Colors.grey.shade500,
-        margin: EdgeInsets.all(30.0),
+        margin: EdgeInsets.all(25.0),
         child: Center(
 
           
@@ -146,7 +146,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   child: Card(
                     child: Text('PLAY'),
                     color: Colors.blue,
-                    elevation: 5,
+                    elevation: 6,
 
                   ),
                 )
@@ -179,7 +179,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     child: Card(
                       child: Text('PLAY'),
                       color: Colors.blue,
-                      elevation: 5,
+                      elevation: 6,
 
                     ),
                   )
