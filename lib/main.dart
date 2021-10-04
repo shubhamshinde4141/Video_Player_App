@@ -108,11 +108,11 @@ class _MyHomePageState extends State<MyHomePage> {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text("Video Player App"),
+        title: Text("Video Player"),
 
       ),
       body: Container(
-        color: Colors.grey.shade500,
+        color: Colors.grey.shade400,
         margin: EdgeInsets.all(25.0),
         child: Center(
 
@@ -145,7 +145,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   },
                   child: Card(
                     child: Text('PLAY'),
-                    color: Colors.blue,
+                    color: Colors.green,
                     elevation: 6,
 
                   ),
@@ -178,7 +178,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     },
                     child: Card(
                       child: Text('PLAY'),
-                      color: Colors.blue,
+                      color: Colors.green,
                       elevation: 6,
 
                     ),
