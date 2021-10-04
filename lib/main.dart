@@ -145,8 +145,8 @@ class _MyHomePageState extends State<MyHomePage> {
                   },
                   child: Card(
                     child: Text('PLAY'),
-                    color: Colors.green,
-                    elevation: 6,
+                    color: Colors.blue,
+                    elevation: 5,
 
                   ),
                 )
@@ -178,8 +178,8 @@ class _MyHomePageState extends State<MyHomePage> {
                     },
                     child: Card(
                       child: Text('PLAY'),
-                      color: Colors.green,
-                      elevation: 6,
+                      color: Colors.blue,
+                      elevation: 5,
 
                     ),
                   )
